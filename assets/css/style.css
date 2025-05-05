@@ -82,7 +82,7 @@ body{
     list-style-type: none;
 }
 body {
-    background-color: #fefefe;
+    background-color: #f7f7f7;
     transition: background-color .5s;
     font-family: monospace; 
 }
