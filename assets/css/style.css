@@ -3,6 +3,7 @@ html, body{
 }
 body{
   position: relative;
+  background-color: #fefefe;
 }
 *{
     outline: none;
